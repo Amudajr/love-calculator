@@ -1,0 +1,28 @@
+
+.container{
+    background-image: url("../images/love2.jpg");
+    background-size: cover;
+    background-position: center; 
+    height: 700px;
+    padding: 1rem;
+    text-align: center;
+}
+
+.alonehead{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: initial;
+}
+
+.line2{
+    width: 1.5px;
+    height: 55%;
+    background-color: red;
+    display: inline-block;
+}
+
+.container label{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
