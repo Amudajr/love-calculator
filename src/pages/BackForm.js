@@ -19,7 +19,7 @@ function BackFormPage(){
                 <ul>
                     <li>
                         <img src={twit} alt='loading' />
-                        <a href='/'>Sign in with twitter</a> &nbsp; &nbsp; &nbsp; 
+                        <a href='/'>Sign in with twitter</a>  &nbsp;  &nbsp;  &nbsp; 
                     </li>
                     <li>
                         <img src={face} alt='loading' />
